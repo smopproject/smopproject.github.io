@@ -298,6 +298,11 @@ h1 {
 	font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
 }
 
+h1 m {
+	font-family: 'Lato', sans-serif;
+	font-size: 200;
+}
+
 h2 {
 	font-size: 150%;
 }
