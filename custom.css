@@ -1,16 +1,6 @@
 /**********
-General
+Custom CSS not included in Bootstrap
 */
-
-
-/*
-head {
-	padding-top: 80px;
-	padding-bottom: 40px;
-	background-color: #fafafa;
-	margin-right: auto;
-	margin-left: auto;
-}*/
 
 body {
 	padding-top: 5vh;
@@ -24,31 +14,6 @@ a {
 	text-decoration: none;
 	font-weight: bolder;
 }
-
-
-/*hero image*/
-
-.Basic-Paragraph {
-	-epub-ruby-position: over;
-	color: #202020;
-	font-size: 12px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: normal;
-	line-height: 1.2;
-	margin-top: auto;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	text-decoration: none;
-	text-indent: 0px;
-}
-
-
-/**********
-GitHub.io stuff
-*/
 
 h1 {
 	font-size: 300%;
