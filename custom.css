@@ -313,8 +313,13 @@ h3 {
 	font-size: 120%;
 }
 
-p {
+p,
+i {
 	font-size: 80%;
+}
+
+i {
+	text-decoration-color: #202020;
 }
 
 .centered,
@@ -327,14 +332,14 @@ p {
 
 .container {
 	padding: 0px;
-	margin: 0px;
-	width: 100vw;
+	margin: 0px, auto;
+	width: 90vw;
 	/*	display: none;
 	*/
 }
 
 .notCentered {
-	width: 49vw;
+	width: 44vw;
 }
 
 .centered {
