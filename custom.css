@@ -309,12 +309,17 @@ h2 {
 	font-size: 150%;
 }
 
+h3 {
+	font-size: 120%;
+}
+
 p {
 	font-size: 80%;
 }
 
 .centered,
-.notCentered {
+.notCentered,
+.info {
 	padding: 5vh 5vw;
 	display: none;
 	margin: 0 auto;
